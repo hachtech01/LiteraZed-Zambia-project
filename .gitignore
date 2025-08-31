@@ -1,0 +1,12 @@
+# Dart/Flutter ignores
+*.log
+*.jks
+*.keystore
+*.iml
+*.ipr
+*.iws
+/build/
+/.idea/
+/.dart_tool/
+.pub-cache/
+*.dart_tool/
